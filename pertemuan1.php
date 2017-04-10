@@ -1,4 +1,7 @@
 <?php
+
+	// Edited with github
+
 	// output
 	echo "Belajar PHP<br>";
 	print_r("Output dengan Print R<br>");
